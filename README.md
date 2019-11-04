@@ -1,1 +1,1 @@
-# Learning Note
+# Learning Note daily crap really boring
