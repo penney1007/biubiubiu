@@ -70,13 +70,7 @@ import opencv
 
 # 2019.11.4
 
-## pandas读数据这些的
-
-在台式机的自己的库函数 估计传上去了
-
-## 别忘记大气辐射学的报告
-
-还打印了python的盗版书籍开心哈哈哈
+## pandas读数据
 
 # 2019.11.5
 
@@ -85,4 +79,4 @@ import opencv
 pandas 广播加上半球信息
 
 先变成Serise再变成datafram
-
+## 把好些东西传到GitHub上
